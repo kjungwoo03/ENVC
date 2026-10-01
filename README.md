@@ -37,6 +37,10 @@ for quality in 0 1 2 3; do
 done
 ```
 
+## Model Checkpoints
+
+Our checkpoints will be released soon!
+
 ## Acknowledgments
 
 The implementation includes components derived from DCVC, DCMVC, and VFPSIE. Existing source copyright and license notices are retained. See [LICENSE](LICENSE) and [licenses/](licenses/).
