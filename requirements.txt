@@ -1,0 +1,10 @@
+torch==2.11.0
+torchvision==0.26.0
+numpy==2.2.6
+scipy
+pillow
+pytorch-msssim
+lpips
+timm==1.0.27
+einops==0.8.2
+cupy-cuda13x==14.1.1
