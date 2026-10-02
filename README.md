@@ -9,8 +9,7 @@ The supported environment uses Python 3.10, PyTorch 2.11.0 with CUDA 13.0, and C
 ```bash
 conda create -n ENVC python=3.10
 conda activate ENVC
-python -m pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cu130
-python -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Evaluation
